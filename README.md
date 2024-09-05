@@ -32,6 +32,11 @@ Soy un desarrollador apasionado por la creación de aplicaciones que faciliten l
       <strong>SQL Server</strong><br/>
       98%
     </td>
+     <td align="center" width="150px">
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git"/><br/>
+      <strong>Git</strong><br/>
+      80%
+    </td>
   </tr>
 </table>
 
