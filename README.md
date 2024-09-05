@@ -1,16 +1,39 @@
-## Hi there 👋
+# ¡Hola! Soy Victor Rivera 👋
 
-<!--
-**Victor20191/Victor20191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la creación de aplicaciones que faciliten la vida de las personas. Me encanta aprender constantemente sobre nuevas tecnologías y mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## Tecnologías que utilizo 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**:
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+  - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
+
+- **Backend**:
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+
+- **Bases de Datos**:
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+  - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=fff)
+
+- **Control de versiones**:
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+
+## Proyectos 📂
+
+Algunos de los proyectos en los que he trabajado incluyen:
+
+- Aplicaciones web utilizando Angular para el frontend y Node.js para el backend.
+- APIs RESTful para la gestión de datos y procesos en distintas plataformas.
+- Sistemas de bases de datos utilizando MySQL y SQL Server.
+
+## Contacto 📫
+
+Puedes encontrarme en:
+
+- [Correo electrónico](mailto:victorrivera004@ejemplo.com)
+
+---
+
+¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes.
