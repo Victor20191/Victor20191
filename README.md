@@ -2,6 +2,42 @@
 
 Soy un desarrollador apasionado por la creación de aplicaciones que faciliten la vida de las personas. Me encanta aprender constantemente sobre nuevas tecnologías y mejorar mis habilidades.
 
+
+# Tecnologías que más domino 🚀
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5"/><br/>
+      <strong>HTML5</strong><br/>
+      90%
+    </td>
+    <td align="center" width="150px">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"/><br/>
+      <strong>JavaScript</strong><br/>
+      85%
+    </td>
+    <td align="center" width="150px">
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js"/><br/>
+      <strong>Node.js</strong><br/>
+      80%
+    </td>
+    <td align="center" width="150px">
+      <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" alt="Angular"/><br/>
+      <strong>Angular</strong><br/>
+      80%
+    </td>
+    <td align="center" width="150px">
+      <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=fff" alt="SQL Server"/><br/>
+      <strong>SQL Server</strong><br/>
+      98%
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## Tecnologías que utilizo 💻
 
 - **Frontend**:
